@@ -7,7 +7,7 @@ void Name(int i, int N)
     if (i > N) {
         return;
     }
-    cout << "surabhi" << endl;
+    cout << "Surabhi Kumari << endl;
         Name(i + 1, N);
     
     
